@@ -17,6 +17,7 @@ Gemfile.lock
 .DS_Store
 *.swp
 *~
+.ipynb_checkpoints
 
 # Folders
 /vendor
